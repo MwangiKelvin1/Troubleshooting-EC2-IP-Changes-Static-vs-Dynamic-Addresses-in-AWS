@@ -244,7 +244,7 @@ Security Analyst. Network security. Cloud security.
 
 - GitHub: [MwangiKelvin1](https://github.com/MwangiKelvin1)
 - LinkedIn: [linkedin.com/in/mwangikabuchu](https://www.linkedin.com/in/mwangikabuchu)  
-- 🐦 X (Twitter): [@MwangiKabuchu](https://x.com/kabuchumwangi)
+- X (Twitter): [@MwangiKabuchu](https://x.com/kabuchumwangi)
 
 ---
 
